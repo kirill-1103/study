@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DiscoveryMicro" />
+        <module name="HistoryMicro" />
+        <module name="ExaminatorMicro" />
+        <module name="JavaMicro" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="DiscoveryMicro" target="11" />
+      <module name="ExaminatorMicro" target="11" />
+      <module name="HistoryMicro" target="11" />
+      <module name="JavaMicro" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="DiscoveryMicro" options="-parameters" />
+      <module name="ExaminatorMicro" options="-parameters" />
+      <module name="HistoryMicro" options="-parameters" />
+      <module name="JavaMicro" options="-parameters" />
+    </option>
+  </component>
+</project>

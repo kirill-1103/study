@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DiscoveryMicro/DiscoveryMicro.iml" filepath="$PROJECT_DIR$/DiscoveryMicro/DiscoveryMicro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ExamMicroservicesProject.iml" filepath="$PROJECT_DIR$/.idea/ExamMicroservicesProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExaminatorMicro/ExaminatorMicro.iml" filepath="$PROJECT_DIR$/ExaminatorMicro/ExaminatorMicro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HistoryMicro/HistoryMicro.iml" filepath="$PROJECT_DIR$/HistoryMicro/HistoryMicro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaMicro/JavaMicro.iml" filepath="$PROJECT_DIR$/JavaMicro/JavaMicro.iml" />
+    </modules>
+  </component>
+</project>
